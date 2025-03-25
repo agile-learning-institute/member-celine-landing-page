@@ -3,7 +3,7 @@ This website is a basic template set-up for a business. I have chose a fruit sal
 
 Images Credit: 
     <ul>
-        <li>fruit-salad.jpg: Jane T D. from pexels</li>  
+        <li>fruit-salad.jpg: Jane T D. from pexels</li>
         <li>banana.jpg: Aleksandar Pasaric from pexels</li>
         <li>apple.jpg: John Finkelstein from pexels</li>
         <li>strawberries.jpg: Ave Calvar Martinez from pexels</li>
